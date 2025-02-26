@@ -21,8 +21,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kritoxx1&show_icons=true&theme=dracula">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kritoxx1&theme=dracula">
 </p>
 
 ---
