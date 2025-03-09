@@ -14,7 +14,7 @@
 ---
 
 ### ⚙️ Tech Stack
-💻 **Languages**: `C`, `x86_64 ASM`, `Bash`, `Python`  
+💻 **Languages**: `C`, `x86/x86_64 ASM`, `Bash`, `Python`  
 ⚙️ **Development**: `Neovim`, `GCC`, `GDB`  
 
 ---
