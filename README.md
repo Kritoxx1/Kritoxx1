@@ -7,18 +7,6 @@
 
 ---
 
-### 🛠️ About Me
-- 🔥 **Low-Level Developer** | C & Assembly  
-- 🎯 **Linux User** | Arch Linux & Void Linux 
-
----
-
-### ⚙️ Tech Stack
-💻 **Languages**: `C`, `x86/x86_64 ASM`, `Bash`, `Python`  
-⚙️ **Development**: `Neovim`, `GCC`, `GDB`  
-
----
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kritoxx1&show_icons=true&theme=dracula">
